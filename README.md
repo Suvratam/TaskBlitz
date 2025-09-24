@@ -19,6 +19,7 @@ TaskBlitz is a lightweight task management application designed to demonstrate t
 * **Dockerized Application**: The app is containerized using Docker, ensuring consistency across different environments.
 * **Automated CI/CD Pipeline**: Jenkins automates the process of building, testing, and deploying the application.
 * **Task Management**: Users can add, edit, and delete tasks.
+![TaskBlitz Banner](images/banner.png)
 
 ## 📦 Getting Started
 
