@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment {
-        IMAGE_NAME = "suvratam/count-app:latest"
+        IMAGE_NAME = "suvratam/count-app"
         IMAGE_TAG  = "latest"
         DOCKERHUB_USER = "suvratam"
     }
